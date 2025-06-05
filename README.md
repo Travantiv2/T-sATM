@@ -29,3 +29,16 @@ I’m learning Python and wanted something that helps drill `if/else` and loops.
 - Input checks so it doesn’t crash on bad input
 - Maybe even multiple user accounts
 
+---
+
+## License
+
+MIT License — free to use and modify
+
+---
+
+## Author
+
+Travanti Lipson Jr — Travantilipsonjr@gmail.com 
+GitHub: https://github.com/Travantiv2
+
